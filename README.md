@@ -1,83 +1,63 @@
-<!-- Header / banner with retro Pokémon sprite -->
-<h1 align="center">  
-  <img src="https://pokemongohub.net/wp-content/uploads/2018/04/Sans-titre.png" alt="Latias and Latios Sprite" width="100" height="50" style="vertical-align: middle;" />  
-  Daud Ibrahim Hassan  
-</h1>
+<div align="center">
+
+# Hey, I'm Daudi Ibrahim Hasan! 👋
+
+I'm a curious, enthusiastic, and nonchalant **Full-Stack Web Developer**, **Data Analyst**, and **Digital Marketer** from **Dhaka, Bangladesh**. Always tinkering with weird stuff—building web apps, crunching data for insights, or crafting digital marketing strategies. I love diving into **data science projects** and contributing to **open-source** communities. Let’s create something epic! 🚀
+
+<!-- Add your avatar: ![Daudi's avatar](https://your-photo-url.jpg) -->
+
+---
+
+## 💻 **Looking for freelance work?**
+Got a project? I'm your guy for web development, data visualization, or digital marketing campaigns.  
+📧 [Email me](mailto:daudibrahimhasan@example.com) :)
+
+---
+
+📊 **This week I spent my time on:**  
+<!--START_SECTION:waka-->  
+<!--END_SECTION:waka-->  
+
+If you like my work, maybe consider buying me a coffee/tea 🥺👉👈  
+
+<a href="https://www.buymeacoffee.com/daudibrahimhasan" target="_blank">  
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" >  
+</a>  
+
+🚧 **My Todoist stats:**  
+<!-- TODO-IST:START -->  
+<!-- TODO-IST:END -->  
+
+---
+
+📈 **My GitHub stats**  
 
 <p align="center">  
-  <em>Computer Science Student • Data Enthusiast • Retro Gamer</em>  
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=daudibrahimhasan&show_icons=true&theme=radical&hide_border=true" alt="daudibrahimhasan" width="48%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daudibrahimhasan&theme=radical&hide_border=true" alt="daudibrahimhasan" width="48%" />  
+</p>  
+
+<p align="center">  
+  <img src="https://github-readme-top-languages.vercel.app/api?username=daudibrahimhasan&layout=compact&theme=radical&hide_border=true" alt="daudibrahimhasan" width="60%" />  
+</p>  
 
 ---
 
-## 🧩 About Me
+## 🛠️ **Skills & Tools**  
+- **Data Science & Analytics:** Data Visualization, Python, SQL, Tableau, Power BI, Excel  
+- **Web Development:** JavaScript, TypeScript, React, Node.js, HTML/CSS, PHP, WordPress  
+- **Digital Marketing:** SEO, Social Media Marketing, Google Analytics  
+- **Other:** Git, Docker, Competitive Programming, Robotics  
+- **Interests:** Data Science Projects, Open-Source Contributions, Web Apps  
 
-Hello! I'm a CSE student at BRAC University with a passion for machine learning, web development, and robotics.  
-- Pursuing Bachelor of Computer Science and Engineering (Expected 2028, CGPA: 3.71).  
-- Love blending tech with real-world impact, from AUV operations to predictive modeling.  
-- Interests: Robotics, Competitive Programming, Football, and Pokémon adventures.
+*Check my [LinkedIn](https://www.linkedin.com/in/daudibrahimhasan/) for all 83 skills!*  
 
----
+## 📫 **Connect with me**  
+- 🌐 [Portfolio](https://your-portfolio.com)  
+- 📸 [Instagram](https://www.instagram.com/____daud_._/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/daudibrahimhasan/)  
+- 📧 Email: [daudibrahimhasan@example.com](mailto:daudibrahimhasan@example.com)  
 
-## 💻 Skills & Tools
+⭐ **Star my repos to support my open-source journey!**  
 
-| Domain | Technologies |
-|--------|--------------|
-| Languages | Python, JavaScript, PHP, SQL |
-| Data & Analytics | Pandas, NumPy, Tableau, Power BI, Data Visualization, Machine Learning (KNN, Logistic Regression) |
-| Web Development | HTML, CSS, WordPress, Responsive Design |
-| Tools & Others | Excel, Git, SEO, Project Management |
-| Soft Skills | Analytical Thinking, Leadership, Mentoring, Communication |
-
-Languages: Fluent in English; Conversational in Urdu.  
-Certifications: Data Analytics Bootcamp with Alex Freberg.
-
----
-
-## ⭐ Featured Projects
-
-- **BRACU Duburi AUV** (Mar 2025 – Present): Contributed to Bangladesh’s first autonomous underwater vehicle, supporting operations and technical tasks.  
-- **Customer Churn Prediction** (Python, ML): Applied K-Nearest Neighbors to predict churn using telecom datasets.  
-- **Loan Prediction Analysis** (Python, ML): Built logistic regression model for loan approvals from banking data.  
-- **Aarong Sales Prediction** (Python, ML): Forecasted sales using multivariate linear regression.  
-- **HR Attrition Dashboard** (Tableau/Power BI): Interactive dashboards visualizing employee attrition.  
-- **Covid-19 Data Exploration** (SQL, Python, Excel): In-depth analysis of Covid datasets for insights.  
-- **Energy Efficiency Analysis** (Python, Excel): Evaluated NYC building energy and emissions.
-
-(Check out my [Repositories](https://github.com/daudibrahimhasan?tab=repositories) for more)
-
----
-
-## 📟 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daudibrahimhasan&show_icons=true&theme=dracula" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudibrahimhasan&layout=compact&theme=dracula" alt="Top Languages" width="300" />
-</p>
-
-For a more retro terminal feel, you can replace this with a generated image from github-readme-terminal.
-
----
-
-## 🔗 Connect & Follow
-
-| Platform | Handle/Contact |
-|----------|----------------|
-| GitHub | [@daudibrahimhasan](https://github.com/daudibrahimhasan) |
-| Email | daudibrahimhasan@gmail.com |
-| Phone | +8801810863618 |
-| Location | Dhaka, Bangladesh |
-
----
-
-## 🏆 Leadership & Activities
-
-- **BRACU Duburi Operation Sub-Team** (Mar 2025 – Present): Supporting AUV operations and robotics skills.  
-- **Programming Hero Campus Ambassador** (Mar 2025 – Present): Inspiring students in competitive programming via workshops.  
-- **UDVASH Mathematics Instructor** (Jan 2024 – May 2024): Teaching SSC math and mentoring students.  
-- **WSEH Host & Moderator** (Aug 2021 – Aug 2023): Facilitated English sessions for 5,000+ participants.  
-- Various clubs: Outward Bound Adventure, Nature Study, Football Teams, Gregorian Science Club (Vice-President).
-
----
-
-<sub>“Gotta code ’em all!” 🕹️ Press Start to Collaborate.</sub>
+</div>
