@@ -30,35 +30,35 @@ I'm a curious and enthusiastic tech explorer, always tinkering with weird stuff 
 
 
 💻 Tech & Tools
-# Technical Skills
 
 ## Programming Languages
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ## Data Analysis & Visualization
-- ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-0078D4)
-- ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-0078D4)
-- ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-0078D4)
-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-- ![Microsoft Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
-- ![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+- ![Data Analysis](https://img.shields.io/badge/Data-Analysis-0078D4)
+- ![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-0078D4)
+- ![Web Scraping](https://img.shields.io/badge/Web-Scraping-0078D4)
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+- ![Excel](https://img.shields.io/badge/Excel-217346?logo=excel&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ## Web Development
-- ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
-- ![Front-end Development](https://img.shields.io/badge/-Front--end%20Development-0078D4)
-- ![Back-end Development](https://img.shields.io/badge/-Back--end%20Development-0078D4)
-- ![Website Design and Maintenance](https://img.shields.io/badge/-Website%20Design-0078D4)
+- ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+- ![Front-end Development](https://img.shields.io/badge/Front-end-0078D4)
+- ![Back-end Development](https://img.shields.io/badge/Back-end-0078D4)
+- ![Website Design](https://img.shields.io/badge/Website-Design-0078D4)
 
 ## Other Technical Tools
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-- ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=white)
-- ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+- ![Google Analytics](https://img.shields.io/badge/GoogleAnalytics-E37400?logo=googleanalytics&logoColor=white)
+- ![Google Colab](https://img.shields.io/badge/GoogleColab-F9AB00?logo=googlecolab&logoColor=white)
+
 🌐 Sometimes: Web Scraping, SEO, Digital Marketing, Prompt Engineering, Event Management  
 
 🚀 Projects & Experience
