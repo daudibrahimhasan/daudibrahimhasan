@@ -4,11 +4,11 @@ for freelance work? do reach, [email](mailto:daudibrahimhasan@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-Python            200 hrs 34 mins    ███████████▓░░░░░░░░░░   54.00 %
-JavaScript         50 hrs 20 mins    ████▓░░░░░░░░░░░░░░░░░   14.00 %
-HTML/CSS           40 hrs 50 mins    ██▓░░░░░░░░░░░░░░░░░░░   11.00 %
-SQL                20 hrs 15 mins    █░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Others             60 hsr 40 mins    █████▓░░░░░░░░░░░░░░░░   16.00 %
+Python            220 hrs 34 mins    ███████████▓░░░░░░░░░░   56.00 %
+JavaScript         52 hrs 20 mins    ████▓░░░░░░░░░░░░░░░░░   14.00 %
+HTML/CSS           45 hrs 50 mins    ██▓░░░░░░░░░░░░░░░░░░░   11.00 %
+SQL                22 hrs 15 mins    █░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Others             65 hsr 40 mins    █████▓░░░░░░░░░░░░░░░░   16.00 %
 
 if you like what I do, maybe consider [☕ Buy Me a Coffee](https://www.buymeacoffee.com/daudibrahim)
 
