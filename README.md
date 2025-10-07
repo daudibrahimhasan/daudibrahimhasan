@@ -10,7 +10,7 @@ HTML/CSS           40 hrs 50 mins    ██▓░░░░░░░░░░░�
 SQL                20 hrs 15 mins    █░░░░░░░░░░░░░░░░░░░░░   05.00 %
 Others             60 hsr 40 mins    █████▓░░░░░░░░░░░░░░░░   16.00 %
 
-if you like what i do, maybe consider <a href="https://www.buymeacoffee.com/daudibrahim">☕ Buy Me a Coffee</a>
+if you like what I do, maybe consider [☕ Buy Me a Coffee](https://www.buymeacoffee.com/daudibrahim)
 
 👋 Hey there, I'm Daud Ibrahim Hasan!
 ✨ Welcome to my data science and dev journey! ✨
