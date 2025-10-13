@@ -13,7 +13,7 @@ Others             65 hsr 40 mins    █████▓░░░░░░░░�
 if you like what I do, maybe consider [☕ Buy Me a Coffee](https://www.buymeacoffee.com/daudibrahim)
 
 👋 Hey there, I'm Daud Ibrahim Hasan!
-✨ Welcome to my data science and dev journey! ✨
+✨ Welcome to my data science and ML journey! ✨
 
 👨‍💻 About Me
 I'm a curious and enthusiastic tech explorer, always tinkering with weird stuff in code
