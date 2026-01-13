@@ -4,11 +4,16 @@ for freelance work? do reach, [email](mailto:daudibrahimhasan@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-Python            250 hrs 34 mins    ███████████▓░░░░░░░░░░   56.00 %
-JavaScript         52 hrs 20 mins    ████▓░░░░░░░░░░░░░░░░░   14.00 %
-HTML/CSS           45 hrs 50 mins    ██▓░░░░░░░░░░░░░░░░░░░   11.00 %
-SQL                22 hrs 15 mins    █░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Others             65 hsr 40 mins    █████▓░░░░░░░░░░░░░░░░   16.00 %
+Jupyter Note  3322 hrs 48 mins    ████████░░░░░░░░░░░░       37.56 %
+TypeScript    2779 hrs 55 mins    ██████░░░░░░░░░░░░░░       31.43 %
+JavaScript     1558 hrs 5 mins    ████░░░░░░░░░░░░░░░░       17.61 %
+CSS            675 hrs 28 mins    ██░░░░░░░░░░░░░░░░░░        7.64 %
+Python         475 hrs 44 mins    █░░░░░░░░░░░░░░░░░░░        5.38 %
+HTML            25 hrs 12 mins    ░░░░░░░░░░░░░░░░░░░░        0.28 %
+PowerShell       8 hrs 48 mins    ░░░░░░░░░░░░░░░░░░░░        0.10 %
+
+Total: 8846 hrs across 20 repositories
+Lines of Code: 44,881
 
 if you like what I do, maybe consider [☕ Buy Me a Coffee](https://www.buymeacoffee.com/daudibrahim)
 
