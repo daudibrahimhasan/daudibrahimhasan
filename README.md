@@ -1,4 +1,4 @@
-for freelance work? do reach, [email](mailto:daudibrahimhasan@gmail.com) :)
+if you like what I do, maybe consider, [email](mailto:daudibrahimhasan@gmail.com) :)
 
 📊 **this is spent my time on:**
 <!--START_SECTION:waka-->
@@ -15,7 +15,6 @@ PowerShell       8 hrs 48 mins    ░░░░░░░░░░░░░░░�
 Total: 8846 hrs across 20 repositories
 Lines of Code: 44,881
 
-if you like what I do, maybe consider [☕ Buy Me a Coffee](https://www.buymeacoffee.com/daudibrahim)
 
 👋 Hey there, I'm Daud Ibrahim Hasan!
 ✨ Welcome to my code playground where data meets AI! ✨
