@@ -18,16 +18,16 @@ Lines of Code: 44,881
 if you like what I do, maybe consider [☕ Buy Me a Coffee](https://www.buymeacoffee.com/daudibrahim)
 
 👋 Hey there, I'm Daud Ibrahim Hasan!
-✨ Welcome to my data science and ML journey! ✨
+✨ Welcome to my code playground where data meets AI! ✨
 
 👨‍💻 About Me
-I'm a curious and enthusiastic tech explorer, always tinkering with weird stuff in code
-By day, I dive into full stack web development, data analysis, and digital marketing.
-By night, I'm hacking on open source or building another data science project.  
+I'm a full-stack developer and data scientist who loves building AI-powered applications
+and extracting insights from data. My recent projects span citation verification systems,
+AI Agents, github CLI, and end-to-end data science pipelines.
 
 JavaScript | TypeScript | Python | R | HTML5 | CSS3 | PHP | React | Node.js |
 WordPress | Front-end Development | Back-end Development | Website Design |
 MySQL | Power BI | Tableau | Excel | Firebase | Data Analysis | Data Cleaning | Web Scraping |
 Git | Google Analytics | Google Colab | Terminal |
 
-🌐 Sometimes: SEO, Digital Marketing, Prompt Engineering, Event Management  
+🌐 When I'm not pushing commits, you'll find me tinkering with SEO strategies, prompt engineering and AI models.
