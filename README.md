@@ -4,17 +4,21 @@ if you like what I do, maybe consider, [email](mailto:daudibrahimhasan@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter Note  3322 hrs 48 mins    ███████░░░░░░░░░░░░░       35.14 %
-TypeScript    2302 hrs 54 mins    █████░░░░░░░░░░░░░░░       24.36 %
-Kotlin        1988 hrs 8 mins     ████░░░░░░░░░░░░░░░░       21.03 %
-JavaScript     858 hrs 34 mins    ██░░░░░░░░░░░░░░░░░░        9.08 %
-Python         475 hrs 44 mins    █░░░░░░░░░░░░░░░░░░░        5.03 %
-CSS            472 hrs 48 mins    █░░░░░░░░░░░░░░░░░░░        5.00 %
-HTML            25 hrs 12 mins    ░░░░░░░░░░░░░░░░░░░░        0.27 %
-PowerShell       8 hrs 48 mins    ░░░░░░░░░░░░░░░░░░░░        0.09 %
+████████████████████████████████████████ | 100% | 23/23 repos | Daud-Ibrahim-Hassan
 
-Total: 9454 hrs 56 mins across 19 repositories
-Lines of Code: 45,534
+TypeScript    7906 hrs 46 mins    ████████░░░░░░░░░░░░       42.45 %
+JavaScript    3882 hrs 14 mins    ████░░░░░░░░░░░░░░░░       20.84 %
+Jupyter Note  3322 hrs 48 mins    ████░░░░░░░░░░░░░░░░       17.84 %
+Kotlin        2309 hrs 50 mins    ██░░░░░░░░░░░░░░░░░░       12.40 %
+CSS            590 hrs 56 mins    █░░░░░░░░░░░░░░░░░░░        3.17 %
+Python         475 hrs 44 mins    █░░░░░░░░░░░░░░░░░░░        2.55 %
+HTML            81 hrs 12 mins    ░░░░░░░░░░░░░░░░░░░░        0.44 %
+PLpgSQL          30 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░        0.16 %
+Java            11 hrs 36 mins    ░░░░░░░░░░░░░░░░░░░░        0.06 %
+PowerShell      13 hrs 17 mins    ░░░░░░░░░░░░░░░░░░░░        0.07 %
+
+Total: 18624 hrs 32 mins across 23 repositories
+Lines of Code: 73,548
 
 👋 Hey there, I'm Daud Ibrahim Hasan!
 ✨ Welcome to my code playground where data meets AI! ✨
