@@ -4,23 +4,15 @@ if you like what I do, maybe consider, [email](mailto:daudibrahimhasan@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-████████████████████████████████████████ | 100% | 34/34 repos |
+Python           285,852 lines    ████████████████░░░░       80.00 %
+Jupyter Note      24,921 lines    █░░░░░░░░░░░░░░░░░░░        6.97 %
+JavaScript        14,201 lines    █░░░░░░░░░░░░░░░░░░░        3.97 %
+TypeScript        12,549 lines    █░░░░░░░░░░░░░░░░░░░        3.51 %
+Kotlin             9,707 lines    █░░░░░░░░░░░░░░░░░░░        2.72 %
+CSS                5,947 lines    ░░░░░░░░░░░░░░░░░░░░        1.66 %
+HTML               3,263 lines    ░░░░░░░░░░░░░░░░░░░░        0.91 %
 
-Python       76227 hrs 12 mins    ████████████████░░░░       81.73 %
-JavaScript    4544 hrs 19 mins    █░░░░░░░░░░░░░░░░░░░        4.87 %
-TypeScript    4350 hrs 19 mins    █░░░░░░░░░░░░░░░░░░░        4.66 %
-Kotlin         3365 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░        3.61 %
-Jupyter Note  3322 hrs 48 mins    █░░░░░░░░░░░░░░░░░░░        3.56 %
-CSS            792 hrs 56 mins    ░░░░░░░░░░░░░░░░░░░░        0.85 %
-HTML            435 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░        0.47 %
-PowerShell     198 hrs 24 mins    ░░░░░░░░░░░░░░░░░░░░        0.21 %
-Java            11 hrs 36 mins    ░░░░░░░░░░░░░░░░░░░░        0.01 %
-Batchfile         9 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░        0.01 %
-Shell            4 hrs 29 mins    ░░░░░░░░░░░░░░░░░░░░        0.00 %
-Dockerfile       2 hrs 56 mins    ░░░░░░░░░░░░░░░░░░░░        0.00 %
-Go Template      2 hrs 24 mins    ░░░░░░░░░░░░░░░░░░░░        0.00 %
-
-Total: 93266 hrs 37 mins across 34 repositories
+Estimated: ~11564 hrs 59 mins ≈ 5 years
 Lines of Code: 357,302
 
 generated with gitChrono built by @daudibrahimhasan
