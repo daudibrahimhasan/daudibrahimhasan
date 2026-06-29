@@ -4,24 +4,26 @@ if you like what I do, maybe consider, [email](mailto:daudibrahimhasan@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-████████████████████████████████████████ | 100% | 23/23 repos | Daud-Ibrahim-Hassan
+████████████████████████████████████████ | 100% | 34/34 repos |
 
-TypeScript    7906 hrs 46 mins    ████████░░░░░░░░░░░░       42.45 %
-JavaScript    3882 hrs 14 mins    ████░░░░░░░░░░░░░░░░       20.84 %
-Jupyter Note  3322 hrs 48 mins    ████░░░░░░░░░░░░░░░░       17.84 %
-Kotlin        2309 hrs 50 mins    ██░░░░░░░░░░░░░░░░░░       12.40 %
-CSS            590 hrs 56 mins    █░░░░░░░░░░░░░░░░░░░        3.17 %
-Python         475 hrs 44 mins    █░░░░░░░░░░░░░░░░░░░        2.55 %
-HTML            81 hrs 12 mins    ░░░░░░░░░░░░░░░░░░░░        0.44 %
-PLpgSQL          30 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░        0.16 %
-Java            11 hrs 36 mins    ░░░░░░░░░░░░░░░░░░░░        0.06 %
-PowerShell      13 hrs 17 mins    ░░░░░░░░░░░░░░░░░░░░        0.07 %
+Python       76227 hrs 12 mins    ████████████████░░░░       81.73 %
+JavaScript    4544 hrs 19 mins    █░░░░░░░░░░░░░░░░░░░        4.87 %
+TypeScript    4350 hrs 19 mins    █░░░░░░░░░░░░░░░░░░░        4.66 %
+Kotlin         3365 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░        3.61 %
+Jupyter Note  3322 hrs 48 mins    █░░░░░░░░░░░░░░░░░░░        3.56 %
+CSS            792 hrs 56 mins    ░░░░░░░░░░░░░░░░░░░░        0.85 %
+HTML            435 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░        0.47 %
+PowerShell     198 hrs 24 mins    ░░░░░░░░░░░░░░░░░░░░        0.21 %
+Java            11 hrs 36 mins    ░░░░░░░░░░░░░░░░░░░░        0.01 %
+Batchfile         9 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░        0.01 %
+Shell            4 hrs 29 mins    ░░░░░░░░░░░░░░░░░░░░        0.00 %
+Dockerfile       2 hrs 56 mins    ░░░░░░░░░░░░░░░░░░░░        0.00 %
+Go Template      2 hrs 24 mins    ░░░░░░░░░░░░░░░░░░░░        0.00 %
 
-Total: 18624 hrs 32 mins across 23 repositories
-Lines of Code: 73,548
+Total: 93266 hrs 37 mins across 34 repositories
+Lines of Code: 357,302
 
-👋 Hey there, I'm Daud Ibrahim Hasan!
-✨ Welcome to my code playground where data meets AI! ✨
+generated with gitChrono built by @daudibrahimhasan
 
 👨‍💻 About Me
 I'm a full-stack developer and data scientist who loves building AI-powered applications
@@ -32,5 +34,3 @@ JavaScript | TypeScript | Python | R | HTML5 | CSS3 | PHP | React | Node.js |
 WordPress | Front-end Development | Back-end Development | Website Design |
 MySQL | Power BI | Tableau | Excel | Firebase | Data Analysis | Data Cleaning | Web Scraping |
 Git | Google Analytics | Google Colab | Terminal |
-
-🌐 When I'm not pushing commits, you'll find me tinkering with SEO strategies, prompt engineering and AI models.
