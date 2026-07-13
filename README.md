@@ -16,7 +16,7 @@ Estimated: ~11564 hrs 59 mins ≈ 5 years
 Lines of Code: 357,302
 
 generated with gitChrono built by @daudibrahimhasan
-
+```
 👨‍💻 About Me
 I'm an AI Engineer and Founder of Nexasity AI, specializing in designing, building,
 and deploying production-grade AI systems. My work spans machine learning,
