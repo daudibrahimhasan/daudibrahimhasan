@@ -18,11 +18,13 @@ Lines of Code: 357,302
 generated with gitChrono built by @daudibrahimhasan
 
 👨‍💻 About Me
-I'm a full-stack developer and data scientist who loves building AI-powered applications
-and extracting insights from data. My recent projects span citation verification systems,
-AI Agents, github CLI, and end-to-end data science pipelines.
+I'm an AI Engineer and Founder of Nexasity AI, specializing in designing, building,
+and deploying production-grade AI systems. My work spans machine learning,
+large language models, backend engineering, and full-stack product development,
+with a focus on transforming AI research into reliable, user-facing applications.
+Recent projects include decision intelligence, citation verification,
+retrieval-augmented generation (RAG), offline AI, forecasting, developer tooling,
+and LLM evaluation and reliability.
 
-JavaScript | TypeScript | Python | R | HTML5 | CSS3 | PHP | React | Node.js |
-WordPress | Front-end Development | Back-end Development | Website Design |
-MySQL | Power BI | Tableau | Excel | Firebase | Data Analysis | Data Cleaning | Web Scraping |
-Git | Google Analytics | Google Colab | Terminal |
+Python | Machine Learning | Large Language Models (LLMs) | Artificial Intelligence |
+Generative AI | Prompt Engineering | Retrieval-Augmented Generation (RAG) | FastAPI
