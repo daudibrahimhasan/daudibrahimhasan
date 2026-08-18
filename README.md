@@ -4,16 +4,16 @@ if you like what I do, maybe consider, [email](mailto:daudibrahimhasan@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-Python           285,852 lines    ████████████████░░░░       80.00 %
-Jupyter Note      24,921 lines    █░░░░░░░░░░░░░░░░░░░        6.97 %
-JavaScript        14,201 lines    █░░░░░░░░░░░░░░░░░░░        3.97 %
-TypeScript        12,549 lines    █░░░░░░░░░░░░░░░░░░░        3.51 %
-Kotlin             9,707 lines    █░░░░░░░░░░░░░░░░░░░        2.72 %
-CSS                5,947 lines    ░░░░░░░░░░░░░░░░░░░░        1.66 %
-HTML               3,263 lines    ░░░░░░░░░░░░░░░░░░░░        0.91 %
+Python           307,406 lines    ████████████░░░░░░░░       60.19 %
+JavaScript        91,142 lines    ████░░░░░░░░░░░░░░░░       17.85 %
+TypeScript        44,575 lines    ██░░░░░░░░░░░░░░░░░░        8.73 %
+Jupyter Note      24,921 lines    █░░░░░░░░░░░░░░░░░░░        4.88 %
+HTML              18,044 lines    █░░░░░░░░░░░░░░░░░░░        3.53 %
+CSS               10,186 lines    ░░░░░░░░░░░░░░░░░░░░        1.99 %
+Kotlin             9,707 lines    ░░░░░░░░░░░░░░░░░░░░        1.90 %
 
-Estimated: ~11564 hrs 59 mins ≈ 5 years
-Lines of Code: 357,302
+Estimated: ~16739 hrs 33 mins ≈ 1.9 years non-stop (24/7)
+Lines of Code: 510,691
 
 generated with gitChrono built by @daudibrahimhasan
 ```
